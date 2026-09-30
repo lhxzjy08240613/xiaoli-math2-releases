@@ -13,3 +13,5 @@
 - 签名证书 SHA-256：`d29268b111686c780960e18e3c1871f43d7629f64df60e96c02365688f3a35a6`
 
 请从 GitHub Releases 页面下载安装包。已经安装 Beta7 或 Beta8 时，请直接覆盖安装，不要卸载旧版本，以免清除本地学习数据。
+
+GitHub Release 附件名 `XiaoLiMath2-v1.1.6-beta9.apk` 即《小黎的数二》正式 Beta9 签名 APK。
